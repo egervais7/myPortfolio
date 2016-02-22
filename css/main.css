@@ -10,11 +10,11 @@ body {
   margin: 0;
 }
 img {
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
 }
-h1,h2,h3,h4,h5,h6 {
-  font-family: 'Roboto';
+h1,h2,h3,h4,h5,h6,p {
+  font-family: 'Orbitron', sans-serif;
   line-height: 1.313em;
 }
 h1 {
@@ -45,27 +45,26 @@ h6 {
   font-size: 1.875rem;
   text-align: center;
   color: #262626;
-  background-size: 49% auto;
+  background-size: 45% auto;
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
 .right {
   padding: 1.618em 6.472em 3.236em 50%;
-  background-position: 0 50%;
+  background-position: 5% 50%;
 }
 .illustration_01 {
   background-color: #00c17b;
-  background-image: url('../assets/images/hikerMan.jpg');
-  margin-right: 10px;
+  background-image: url('../assets/images/RentRabbit.jpg');
 }
 .left {
   padding: 1.618em 50% 3.236em 6.472em;
-  background-position: 100% 50%;
+  background-position: 95% 50%;
+  background-h
 }
 .illustration_02 {
   background-color: #e8697b;
   background-image: url("../assets/images/WASalariesAPI.jpg");
-  margin-left: 10px;
 }
 .separator {
   font-size: 1.875rem;
@@ -74,16 +73,13 @@ h6 {
 }
 .illustration_03 {
   background-color: #00c17b;
-  background-image: url('../assets/images/RentRabbit.jpg');
-  margin-right: 10px;
+  background-image: url('../assets/images/HikerMan.jpg');
 }
 .illustration_04 {
   background-color: #e8697b;
   background-image: url("../assets/images/Woodies.jpg");
-  margin-left: 10px;
 }
 .illustration_05 {
   background-color: #00c17b;
   background-image: url('../assets/images/EGWords.jpg');
-  margin-right: 10px;
 }
