@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ed Gervais</title>
+    <description>I am a full stack web developer in the greater Seattle area with a passion for the outdoors, travel and family. I am excited to continually learn newest code languages and make user friendly, helpful, and efficient web applications. When I am not coding you can find me out backpacking in the mountains around Washington and spending time with my family.</description>
+    <link>http://edgervais.com/</link>
+    <atom:link href="http://edgervais.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 Feb 2016 10:43:53 -0800</pubDate>
+    <lastBuildDate>Fri, 26 Feb 2016 10:43:53 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Hiker Man Game</title>
+        <description>&lt;h2 id=&quot;screen-shot&quot;&gt;Screen Shot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../../../../images/hikerMan.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;about-hiker-man&quot;&gt;About Hiker Man&lt;/h2&gt;
+
+&lt;p&gt;HikingMan is an online game made with Phaser and Meteor. It was built for the final project during General Assemblies Web Development Immersive Program. Go play it at &lt;a href=&quot;hikerman.meteor.com&quot;&gt;hikerman.meteor.com&lt;/a&gt;. It may take a moment to load, but see if you can find the Pink Unicorn!&lt;/p&gt;
+
+&lt;p&gt;Phaser.io is a fast, free and fun HTML5 game framework. It uses a custom build of Pixi.js for WebGL and Canvas rendering across desktop and mobile web browsers. There are tons of tutorials and examples that make creating a game very easy.&lt;/p&gt;
+
+&lt;p&gt;If you want to make a game with Phaser, go to their repo, Phaser Repo, clone it and download the phaser.js and phaser.min.js so you can get started!&lt;/p&gt;
+
+&lt;p&gt;Meteor is a very simple way to create a real time, full Javascript Apps. Go check them out! I used it to give players an option to add their top scores and initials to the database.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://edgervais.com/phaser.io/and/meteor/app/2016/02/08/hiker-man.html</link>
+        <guid isPermaLink="true">http://edgervais.com/phaser.io/and/meteor/app/2016/02/08/hiker-man.html</guid>
+        
+        
+        <category>Phaser.io</category>
+        
+        <category>and</category>
+        
+        <category>Meteor</category>
+        
+        <category>App</category>
+        
+      </item>
+    
+      <item>
+        <title>WA Salaries API</title>
+        <description>&lt;h2 id=&quot;screen-shot&quot;&gt;Screen Shot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../../../../images/WASalariesAPI.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;about-wa-salaries&quot;&gt;About WA Salaries&lt;/h2&gt;
+
+&lt;p&gt;24 Hour Hackathon&lt;/p&gt;
+
+&lt;p&gt;Criteria&lt;/p&gt;
+
+&lt;p&gt;Use mongoDB to create a database.
+Populate your DB with a dataset of your choosing.
+Create an access point for your database. So others can use it as api.
+Upload it to Heroku.
+Use Angular to create a front end to access the dataset.
+Check it out at &lt;a href=&quot;https://wa-salaries-api.herokuapp.com&quot;&gt;https://wa-salaries-api.herokuapp.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Team&lt;/p&gt;
+
+&lt;p&gt;James Chi
+&lt;a href=&quot;https://github.com/jamesjchi&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/jamesjchi&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;http://www.jameschi.com/&quot;&gt;James’ Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ed Gervais
+&lt;a href=&quot;https://github.com/egervais7&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/eagervai&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;http://edgervais.com/&quot;&gt;Ed’s Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Erin Moon
+&lt;a href=&quot;https://github.com/chibitofu&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/erin-moon-9417b597&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;http://erinmoony.com/&quot;&gt;Erin’s Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;App Features&lt;/p&gt;
+
+&lt;p&gt;Search through 2,500 entries. * We limited it from 65,000, due to load times.
+Displays 50 entries per page, using pagination.
+See total salary for 2014, based on the 2,5000 entries.
+Filter data to see specific entry.
+See salary information from 2011 - 2014.
+Displays employee name, job title, and department name.&lt;/p&gt;
+
+&lt;p&gt;How to access the api&lt;/p&gt;
+
+&lt;p&gt;Use &lt;a href=&quot;https://wa-salaries-api.herokuapp.com/api/state_workers&quot;&gt;https://wa-salaries-api.herokuapp.com/api/state_workers&lt;/a&gt; to get a JSON of the full database.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://edgervais.com/angularjs/api/2016/01/28/wa-salaries.html</link>
+        <guid isPermaLink="true">http://edgervais.com/angularjs/api/2016/01/28/wa-salaries.html</guid>
+        
+        
+        <category>AngularJS</category>
+        
+        <category>API</category>
+        
+      </item>
+    
+      <item>
+        <title>Rent-Rabbit</title>
+        <description>&lt;h2 id=&quot;screen-shot&quot;&gt;Screen Shot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../../../../images/RentRabbit.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;about-rent-rabbit&quot;&gt;About Rent-Rabbit&lt;/h2&gt;
+
+&lt;p&gt;The purpose of Rent Rabbit is to allow members to rent gear that they are not using to other members that only need something temporarily or are wanting to give a piece of equipment a test run before purchasing.&lt;/p&gt;
+
+&lt;p&gt;RR allows signed up users to post items for rent as well as search available items posted by other users. Once a transaction has taken place, users are encouraged to rate and review their experience to better inform future interaction.&lt;/p&gt;
+
+&lt;p&gt;Check it out and become a user at &lt;a href=&quot;https://rent-rabbit.herokuapp.com&quot;&gt;https://rent-rabbit.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Team&lt;/p&gt;
+
+&lt;p&gt;Alex Winn
+&lt;a href=&quot;https://github.com/alexwinn520&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/alex-winn-65091b4b&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;#&quot;&gt;Alex’s Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Seth Chute
+&lt;a href=&quot;https://github.com/s-d-c&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/sethdchute&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;#&quot;&gt;Seth’s Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;James Chi
+&lt;a href=&quot;https://github.com/jamesjchi&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/jamesjchi&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;http://www.jameschi.com/&quot;&gt;James’ Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ed Gervais
+&lt;a href=&quot;https://github.com/egervais7&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/eagervai&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;http://edgervais.com/&quot;&gt;Ed’s Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The site was created using the following technology:&lt;/p&gt;
+
+&lt;p&gt;Front End: HTML5, CSS3, Bootstrap, Javascript, JQuery&lt;/p&gt;
+
+&lt;p&gt;Server: Ruby, Rails&lt;/p&gt;
+
+&lt;p&gt;Database: PostgreSQL&lt;/p&gt;
+
+&lt;p&gt;API’s Used: Cloudinary for uploading profile and item images.&lt;/p&gt;
+
+&lt;p&gt;Facebook for OAuth and Facebook login.&lt;/p&gt;
+
+&lt;p&gt;Hurdles Heroku deployment as well as browser compatability affected negatively rendering of home page effects and appearance.&lt;/p&gt;
+
+&lt;p&gt;Heroku also would not allow password reset functionality among other things.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://edgervais.com/ruby/on/rails/app/2016/01/15/rent-rabbit.html</link>
+        <guid isPermaLink="true">http://edgervais.com/ruby/on/rails/app/2016/01/15/rent-rabbit.html</guid>
+        
+        
+        <category>Ruby</category>
+        
+        <category>on</category>
+        
+        <category>Rails</category>
+        
+        <category>app</category>
+        
+      </item>
+    
+      <item>
+        <title>Woodies App</title>
+        <description>&lt;h2 id=&quot;screen-shot&quot;&gt;Screen Shot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../../../../images/Woodies.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;about-woodies&quot;&gt;About Woodies&lt;/h2&gt;
+
+&lt;p&gt;Woodies app for woodworking&lt;/p&gt;
+
+&lt;p&gt;Using the pinterest API and scrapping lots of information to get this app working. A place for people who have an interest in woodworking to find information. Easy to find info on the basics for woodworking. Find and save your tools, learn some basic skills, and find project ideas!&lt;/p&gt;
+
+&lt;p&gt;Find the app at &lt;a href=&quot;https://woodiesapp.herokuapp.com&quot;&gt;woodiesapp.herokuapp.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Using Node.js and express to run this app. Has connected database and tables with postgres.&lt;/p&gt;
+
+&lt;p&gt;Found some issues using the pinterest API, not with using it per-se, but some functionality I had hoped for does not exist with their API. Example being that you cannot search for pins by their name, you need to search for pins by their ID. You can search a users pins, which is what I have done, but I have found that 24 hours after you pin, they cannot be accessed through the API. This will cause my app to have issues after I stop pinning to my boards. It is easy to pin to your board and look at pins if you can find them. So that was fun to figure out!&lt;/p&gt;
+
+&lt;p&gt;This was 5 days worth of work and if I had more time I would spend it either finding a way to convert the searched pin name to a pin id that would find pins, if that is possible. If I could not get that to work I would go on to try and find a different API that could be used to search for projects.&lt;/p&gt;
+
+&lt;p&gt;Hope you find a fun project!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://edgervais.com/node.js/app/2015/12/18/woodies-app.html</link>
+        <guid isPermaLink="true">http://edgervais.com/node.js/app/2015/12/18/woodies-app.html</guid>
+        
+        
+        <category>Node.js</category>
+        
+        <category>app</category>
+        
+      </item>
+    
+      <item>
+        <title>Word Search</title>
+        <description>&lt;h2 id=&quot;screen-shot&quot;&gt;Screen Shot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../../../../images/EGWords.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;about-word-search&quot;&gt;About Word Search&lt;/h2&gt;
+
+&lt;p&gt;This word search game was my first big assignment at General Assembly. It was built with HTML, CSS, Javascript and jQuery only.&lt;/p&gt;
+
+&lt;p&gt;After only 2 weeks of learning, I had to make a game and this is what I chose to create. It uses localStorage to save the top scores locally. It was a challenging first assignment, but looking back now, I know much better ways to create games and make working code. This was a great kick off to my learning experience at General Assembly.&lt;/p&gt;
+
+&lt;p&gt;You can play it at &lt;a href=&quot;http://egervais7.github.io/firstGameProject/&quot;&gt;http://egervais7.github.io/firstGameProject/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Nov 2015 00:00:00 -0800</pubDate>
+        <link>http://edgervais.com/vanilla/javascript/app/2015/11/25/word-search.html</link>
+        <guid isPermaLink="true">http://edgervais.com/vanilla/javascript/app/2015/11/25/word-search.html</guid>
+        
+        
+        <category>Vanilla</category>
+        
+        <category>Javascript</category>
+        
+        <category>app</category>
+        
+      </item>
+    
+  </channel>
+</rss>
