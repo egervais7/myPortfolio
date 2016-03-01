@@ -3,10 +3,10 @@
   <channel>
     <title>Ed Gervais</title>
     <description>I am a full stack web developer in the greater Seattle area with a passion for the outdoors, travel and family. I am excited to continually learn newest code languages and make user friendly, helpful, and efficient web applications. When I am not coding you can find me out backpacking in the mountains around Washington and spending time with my family.</description>
-    <link>http://edgervais.com/</link>
-    <atom:link href="http://edgervais.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Feb 2016 10:43:53 -0800</pubDate>
-    <lastBuildDate>Fri, 26 Feb 2016 10:43:53 -0800</lastBuildDate>
+    <link>http://www.edgervais.com/</link>
+    <atom:link href="http://www.edgervais.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 01 Mar 2016 11:44:30 -0800</pubDate>
+    <lastBuildDate>Tue, 01 Mar 2016 11:44:30 -0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -26,8 +26,8 @@
 &lt;p&gt;Meteor is a very simple way to create a real time, full Javascript Apps. Go check them out! I used it to give players an option to add their top scores and initials to the database.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://edgervais.com/phaser.io/and/meteor/app/2016/02/08/hiker-man.html</link>
-        <guid isPermaLink="true">http://edgervais.com/phaser.io/and/meteor/app/2016/02/08/hiker-man.html</guid>
+        <link>http://www.edgervais.com/phaser.io/and/meteor/app/2016/02/08/hiker-man.html</link>
+        <guid isPermaLink="true">http://www.edgervais.com/phaser.io/and/meteor/app/2016/02/08/hiker-man.html</guid>
         
         
         <category>Phaser.io</category>
@@ -65,7 +65,7 @@ Check it out at &lt;a href=&quot;https://wa-salaries-api.herokuapp.com&quot;&gt;
 &lt;a href=&quot;https://github.com/jamesjchi&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/jamesjchi&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;http://www.jameschi.com/&quot;&gt;James’ Website&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Ed Gervais
-&lt;a href=&quot;https://github.com/egervais7&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/eagervai&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;http://edgervais.com/&quot;&gt;Ed’s Website&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://github.com/egervais7&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/eagervai&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;http://www.edgervais.com/&quot;&gt;Ed’s Website&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Erin Moon
 &lt;a href=&quot;https://github.com/chibitofu&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/erin-moon-9417b597&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;http://erinmoony.com/&quot;&gt;Erin’s Website&lt;/a&gt;&lt;/p&gt;
@@ -84,8 +84,8 @@ Displays employee name, job title, and department name.&lt;/p&gt;
 &lt;p&gt;Use &lt;a href=&quot;https://wa-salaries-api.herokuapp.com/api/state_workers&quot;&gt;https://wa-salaries-api.herokuapp.com/api/state_workers&lt;/a&gt; to get a JSON of the full database.&lt;/p&gt;
 </description>
         <pubDate>Thu, 28 Jan 2016 00:00:00 -0800</pubDate>
-        <link>http://edgervais.com/angularjs/api/2016/01/28/wa-salaries.html</link>
-        <guid isPermaLink="true">http://edgervais.com/angularjs/api/2016/01/28/wa-salaries.html</guid>
+        <link>http://www.edgervais.com/angularjs/api/2016/01/28/wa-salaries.html</link>
+        <guid isPermaLink="true">http://www.edgervais.com/angularjs/api/2016/01/28/wa-salaries.html</guid>
         
         
         <category>AngularJS</category>
@@ -111,7 +111,7 @@ Displays employee name, job title, and department name.&lt;/p&gt;
 &lt;p&gt;Team&lt;/p&gt;
 
 &lt;p&gt;Alex Winn
-&lt;a href=&quot;https://github.com/alexwinn520&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/alex-winn-65091b4b&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;#&quot;&gt;Alex’s Website&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://github.com/alexwinn520&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/alex-winn-65091b4b&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;http://www.alexwinndev.com&quot;&gt;Alex’s Website&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Seth Chute
 &lt;a href=&quot;https://github.com/s-d-c&quot;&gt;github&lt;/a&gt; | &lt;a href=&quot;https://www.linkedin.com/in/sethdchute&quot;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&quot;#&quot;&gt;Seth’s Website&lt;/a&gt;&lt;/p&gt;
@@ -139,8 +139,8 @@ Displays employee name, job title, and department name.&lt;/p&gt;
 &lt;p&gt;Heroku also would not allow password reset functionality among other things.&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Jan 2016 00:00:00 -0800</pubDate>
-        <link>http://edgervais.com/ruby/on/rails/app/2016/01/15/rent-rabbit.html</link>
-        <guid isPermaLink="true">http://edgervais.com/ruby/on/rails/app/2016/01/15/rent-rabbit.html</guid>
+        <link>http://www.edgervais.com/ruby/on/rails/app/2016/01/15/rent-rabbit.html</link>
+        <guid isPermaLink="true">http://www.edgervais.com/ruby/on/rails/app/2016/01/15/rent-rabbit.html</guid>
         
         
         <category>Ruby</category>
@@ -176,8 +176,8 @@ Displays employee name, job title, and department name.&lt;/p&gt;
 &lt;p&gt;Hope you find a fun project!&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Dec 2015 00:00:00 -0800</pubDate>
-        <link>http://edgervais.com/node.js/app/2015/12/18/woodies-app.html</link>
-        <guid isPermaLink="true">http://edgervais.com/node.js/app/2015/12/18/woodies-app.html</guid>
+        <link>http://www.edgervais.com/node.js/app/2015/12/18/woodies-app.html</link>
+        <guid isPermaLink="true">http://www.edgervais.com/node.js/app/2015/12/18/woodies-app.html</guid>
         
         
         <category>Node.js</category>
@@ -201,8 +201,8 @@ Displays employee name, job title, and department name.&lt;/p&gt;
 &lt;p&gt;You can play it at &lt;a href=&quot;http://egervais7.github.io/firstGameProject/&quot;&gt;http://egervais7.github.io/firstGameProject/&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://edgervais.com/vanilla/javascript/app/2015/11/25/word-search.html</link>
-        <guid isPermaLink="true">http://edgervais.com/vanilla/javascript/app/2015/11/25/word-search.html</guid>
+        <link>http://www.edgervais.com/vanilla/javascript/app/2015/11/25/word-search.html</link>
+        <guid isPermaLink="true">http://www.edgervais.com/vanilla/javascript/app/2015/11/25/word-search.html</guid>
         
         
         <category>Vanilla</category>

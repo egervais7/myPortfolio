@@ -11,18 +11,19 @@
   <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:600' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://edgervais.com/">
-  <link rel="alternate" type="application/rss+xml" title="Ed Gervais" href="http://edgervais.com/feed.xml" />
+  <link rel="canonical" href="http://www.edgervais.com/">
+  <link rel="alternate" type="application/rss+xml" title="Ed Gervais" href="http://www.edgervais.com/feed.xml" />
 </head>
 
 
   <body>
 
     <div class="cover">
-      <div class="clock"></div>
-      <div class='hours'></div>
-      <div class='seconds'></div>
-      <div class='minutes'></div>
+      <div class="clock">
+        <div class='hours'></div>
+        <div class='seconds'></div>
+        <div class='minutes'></div>
+      </div>
       <div class="site-name">
         <div class="site-name__inner">
           <div class="profileImg"><img src="/images/ed.jpg"></div>
@@ -134,6 +135,10 @@
   var header = document.getElementsByTagName('header')[0];
 
   btnSel.addEventListener("click", function() {
+    header.scrollIntoView();
+  }, false);
+
+  btnSel.addEventListener("tap", function(){
     header.scrollIntoView();
   }, false);
 

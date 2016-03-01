@@ -361,11 +361,60 @@ code {
   cursor: pointer; }
 
 .site-name__inner .profileImg img {
-  border: 1px solid white;
+  border: 3px solid white;
   border-radius: 50%;
   height: 50%;
   width: 50%; }
 
+@media only screen and (min-device-width: 320px) and (max-device-width: 736px) {
+  .cover {
+    height: 265%;
+    width: 150%;
+    display: inline-block; }
+
+  .site-name {
+    position: relative;
+    top: 450px; }
+
+  .site-name__inner {
+    position: relative;
+    width: 60%; }
+
+  .seconds {
+    width: 40px;
+    height: 40px;
+    top: 230px;
+    left: 200px;
+    position: absolute;
+    text-align: center;
+    line-height: 40px;
+    font-size: 18pt;
+    border-radius: 50%;
+    background-color: rgba(81, 81, 81, 0.2); }
+
+  .minutes {
+    width: 100px;
+    height: 100px;
+    top: 200px;
+    left: 170px;
+    position: absolute;
+    text-align: center;
+    line-height: 100px;
+    font-size: 52pt;
+    border-radius: 50%;
+    background-color: rgba(126, 126, 126, 0.7); }
+
+  .hours {
+    width: 300px;
+    height: 300px;
+    top: 100px;
+    left: 70px;
+    position: absolute;
+    text-align: center;
+    line-height: 280px;
+    font-size: 133pt;
+    border-radius: 50%;
+    background-color: rgba(181, 181, 181, 0.4); } }
 /**
  * Syntax highlighting styles
  */

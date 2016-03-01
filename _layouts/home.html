@@ -6,10 +6,11 @@
   <body>
 
     <div class="cover">
-      <div class="clock"></div>
-      <div class='hours'></div>
-      <div class='seconds'></div>
-      <div class='minutes'></div>
+      <div class="clock">
+        <div class='hours'></div>
+        <div class='seconds'></div>
+        <div class='minutes'></div>
+      </div>
       <div class="site-name">
         <div class="site-name__inner">
           <div class="profileImg"><img src="/images/ed.jpg"></div>
@@ -40,10 +41,8 @@
 <script>
   setInterval(function() {
     var seconds = new Date().getSeconds();
-    console.log("these are get Seconds  " + seconds);
     var sdegree = seconds * 6 + 270;
     seconds = ("0" + seconds).slice(-2);
-    console.log("These are seconds after slice -2  " + seconds);
     var secondSel = document.querySelector(".seconds");
 
     secondSel.style.transform = "rotate(" + sdegree + "deg) translate(160px) rotate(-" + sdegree + "deg)";
@@ -73,6 +72,10 @@
   var header = document.getElementsByTagName('header')[0];
 
   btnSel.addEventListener("click", function() {
+    header.scrollIntoView();
+  }, false);
+
+  btnSel.addEventListener("tap", function(){
     header.scrollIntoView();
   }, false);
 
