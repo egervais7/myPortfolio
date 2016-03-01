@@ -21,7 +21,7 @@ Check it out and become a user at <a href="https://rent-rabbit.herokuapp.com">ht
 Team
 
 Alex Winn
-<a href="https://github.com/alexwinn520">github</a> | <a href="https://www.linkedin.com/in/alex-winn-65091b4b">LinkedIn</a> | <a href="#">Alex's Website</a>
+<a href="https://github.com/alexwinn520">github</a> | <a href="https://www.linkedin.com/in/alex-winn-65091b4b">LinkedIn</a> | <a href="http://www.alexwinndev.com">Alex's Website</a>
 
 Seth Chute
 <a href="https://github.com/s-d-c">github</a> | <a href="https://www.linkedin.com/in/sethdchute">LinkedIn</a> | <a href="#">Seth's Website</a>

@@ -28,7 +28,7 @@ James Chi
 <a href="https://github.com/jamesjchi">github</a> | <a href="https://www.linkedin.com/in/jamesjchi">LinkedIn</a> | <a href="http://www.jameschi.com/">James' Website</a>
 
 Ed Gervais
-<a href="https://github.com/egervais7">github</a> | <a href="https://www.linkedin.com/in/eagervai">LinkedIn</a> | <a href="http://edgervais.com/">Ed's Website</a>
+<a href="https://github.com/egervais7">github</a> | <a href="https://www.linkedin.com/in/eagervai">LinkedIn</a> | <a href="http://www.edgervais.com/">Ed's Website</a>
 
 Erin Moon
 <a href="https://github.com/chibitofu">github</a> | <a href="https://www.linkedin.com/in/erin-moon-9417b597">LinkedIn</a> | <a href="http://erinmoony.com/">Erin's Website</a>

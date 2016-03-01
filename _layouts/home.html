@@ -40,8 +40,10 @@
 <script>
   setInterval(function() {
     var seconds = new Date().getSeconds();
+    console.log("these are get Seconds  " + seconds);
     var sdegree = seconds * 6 + 270;
     seconds = ("0" + seconds).slice(-2);
+    console.log("These are seconds after slice -2  " + seconds);
     var secondSel = document.querySelector(".seconds");
 
     secondSel.style.transform = "rotate(" + sdegree + "deg) translate(160px) rotate(-" + sdegree + "deg)";
