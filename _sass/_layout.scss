@@ -300,13 +300,12 @@
 and (min-device-width : 320px)
 and (max-device-width : 736px) {
   .cover {
-    height: 265%;
+    height: 250%;
     width: 150%;
-    display : inline-block;
   }
   .site-name {
     position: relative;
-    top: 450px;
+    top: 400px;
   }
   .site-name__inner {
     position: relative;
@@ -348,5 +347,21 @@ and (max-device-width : 736px) {
       font-size: 133pt;
       border-radius: 50%;
       background-color: rgba(181, 181, 181, 0.4);
+  }
+}
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)  {
+  .cover {
+    height: 130%;
+    width: 150%;
+  }
+  .site-name {
+    position: relative;
+    top: 400px;
+  }
+  .site-name__inner {
+    position: relative;
+    width: 60%;
   }
 }
