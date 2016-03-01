@@ -4,7 +4,8 @@ title: Skills
 permalink: /skills/
 ---
 
-##LANGUAGES
+--LANGUAGES--
+<hr>
 
 HTML<br>
 CSS<br>
@@ -12,7 +13,8 @@ Javascript<br>
 Ruby<br>
 Sass
 
-##FRAMEWORKS
+--FRAMEWORKS--
+<hr>
 
 Node.js<br>
 Rails<br>
@@ -21,20 +23,23 @@ Express<br>
 React<br>
 Meteor
 
-##LIBRARIES
+--LIBRARIES--
+<hr>
 
 JQuery<br>
 Bootstrap<br>
 Underscore
 
-##TESTING FRAMEWORKS
+--TESTING FRAMEWORKS--
+<hr>
 
 Chrome Dev Tools<br>
 Mocha.js<br>
 RSpec<br>
 TDD<br>
 
-##OTHER
+--OTHER--
+<hr>
 
 AJAX<br>
 Heroku<br>

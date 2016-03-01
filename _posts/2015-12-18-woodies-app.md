@@ -6,10 +6,12 @@ categories: Node.js app
 ---
 
 --Screen Shot--
+<hr>
 
 <img src="../../../../../../../images/Woodies.jpg">
 
 --About Woodies--
+<hr>
 
 Woodies app for woodworking
 

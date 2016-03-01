@@ -6,10 +6,12 @@ categories: AngularJS API
 ---
 
 --Screen Shot--
+<hr>
 
 <img src="../../../../../../../images/WASalariesAPI.jpg">
 
 --About WA Salaries--
+<hr>
 
 24 Hour Hackathon
 

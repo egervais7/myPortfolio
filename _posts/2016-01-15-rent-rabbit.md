@@ -6,10 +6,12 @@ categories: Ruby on Rails app
 ---
 
 --Screen Shot--
+<hr>
 
 <img src="../../../../../../../images/RentRabbit.jpg">
 
 --About Rent-Rabbit--
+<hr>
 
 The purpose of Rent Rabbit is to allow members to rent gear that they are not using to other members that only need something temporarily or are wanting to give a piece of equipment a test run before purchasing.
 
