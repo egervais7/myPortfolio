@@ -5,7 +5,6 @@ permalink: /skills/
 ---
 
 --LANGUAGES--
-<hr>
 
 HTML<br>
 CSS<br>
@@ -14,7 +13,6 @@ Ruby<br>
 Sass
 
 --FRAMEWORKS--
-<hr>
 
 Node.js<br>
 Rails<br>
@@ -24,14 +22,12 @@ React<br>
 Meteor
 
 --LIBRARIES--
-<hr>
 
 JQuery<br>
 Bootstrap<br>
 Underscore
 
 --TESTING FRAMEWORKS--
-<hr>
 
 Chrome Dev Tools<br>
 Mocha.js<br>
@@ -39,7 +35,7 @@ RSpec<br>
 TDD<br>
 
 --OTHER--
-<hr>
+
 
 AJAX<br>
 Heroku<br>

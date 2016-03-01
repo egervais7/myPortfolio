@@ -6,12 +6,10 @@ categories: Vanilla Javascript app
 ---
 
 --Screen Shot--
-<hr>
 
 <img src="../../../../../../../images/EGWords.jpg">
 
 --About Word Search--
-<hr>
 
 This word search game was my first big assignment at General Assembly. It was built with HTML, CSS, Javascript and jQuery only.
 
