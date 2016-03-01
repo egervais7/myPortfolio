@@ -17,6 +17,8 @@ RR allows signed up users to post items for rent as well as search available ite
 
 Check it out and become a user at <a href="https://rent-rabbit.herokuapp.com">https://rent-rabbit.herokuapp.com/</a>
 
+Or go read our code <a href="https://github.com/alexwinn520/rent-rabbit">here</a>
+
 
 Team
 

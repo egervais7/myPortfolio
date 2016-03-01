@@ -21,6 +21,8 @@ Create an access point for your database. So others can use it as api.
 Upload it to Heroku.
 Use Angular to create a front end to access the dataset.
 Check it out at <a href="https://wa-salaries-api.herokuapp.com">https://wa-salaries-api.herokuapp.com</a>
+You can go see our code <a href="https://github.com/egervais7/WASalaries">here</a>
+
 
 Team
 

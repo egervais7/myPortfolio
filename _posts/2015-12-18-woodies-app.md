@@ -17,6 +17,9 @@ Using the pinterest API and scrapping lots of information to get this app workin
 
 Find the app at <a href="https://woodiesapp.herokuapp.com">woodiesapp.herokuapp.com</a>
 
+You can go see my code <a href="https://github.com/egervais7/woodies">here</a>
+
+
 Using Node.js and express to run this app. Has connected database and tables with postgres.
 
 Found some issues using the pinterest API, not with using it per-se, but some functionality I had hoped for does not exist with their API. Example being that you cannot search for pins by their name, you need to search for pins by their ID. You can search a users pins, which is what I have done, but I have found that 24 hours after you pin, they cannot be accessed through the API. This will cause my app to have issues after I stop pinning to my boards. It is easy to pin to your board and look at pins if you can find them. So that was fun to figure out!
