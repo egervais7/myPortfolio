@@ -2,22 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ed Gervais</title>
-    <description>I am a full stack web developer in the greater Seattle area with a passion for the outdoors, travel and family. I am excited to continually learn newest code languages and make user friendly, helpful, and efficient web applications. When I am not coding you can find me out backpacking in the mountains around Washington and spending time with my family.</description>
+    <description>I am a full stack web developer in the greater Seattle area with a passion for the outdoors, travel and family. I am excited to continually learn new code languages and make user friendly, helpful, and efficient web applications. When I am not coding you can find me out backpacking in the mountains around Washington and spending time with my family.</description>
     <link>http://www.edgervais.com/</link>
     <atom:link href="http://www.edgervais.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Mar 2016 11:52:13 -0800</pubDate>
-    <lastBuildDate>Tue, 01 Mar 2016 11:52:13 -0800</lastBuildDate>
+    <pubDate>Tue, 01 Mar 2016 14:33:05 -0800</pubDate>
+    <lastBuildDate>Tue, 01 Mar 2016 14:33:05 -0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Hiker Man Game</title>
-        <description>&lt;h2 id=&quot;screen-shot&quot;&gt;Screen Shot&lt;/h2&gt;
+        <description>&lt;p&gt;–Screen Shot–&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../../../../../../images/hikerMan.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;about-hiker-man&quot;&gt;About Hiker Man&lt;/h2&gt;
+&lt;p&gt;–About Hiker Man–&lt;/p&gt;
 
-&lt;p&gt;HikingMan is an online game made with Phaser and Meteor. It was built for the final project during General Assemblies Web Development Immersive Program. Go play it at &lt;a href=&quot;hikerman.meteor.com&quot;&gt;hikerman.meteor.com&lt;/a&gt;. It may take a moment to load, but see if you can find the Pink Unicorn!&lt;/p&gt;
+&lt;p&gt;HikingMan is an online game made with Phaser and Meteor. It was built for the final project during General Assemblies Web Development Immersive Program. Go play it at &lt;a href=&quot;http://hikerman.meteor.com&quot;&gt;http://hikerman.meteor.com&lt;/a&gt;. It may take a moment to load, but see if you can find the Pink Unicorn!&lt;/p&gt;
+
+&lt;p&gt;You can go see my code &lt;a href=&quot;https://github.com/egervais7/hikingMan&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Phaser.io is a fast, free and fun HTML5 game framework. It uses a custom build of Pixi.js for WebGL and Canvas rendering across desktop and mobile web browsers. There are tons of tutorials and examples that make creating a game very easy.&lt;/p&gt;
 
@@ -42,11 +44,11 @@
     
       <item>
         <title>WA Salaries API</title>
-        <description>&lt;h2 id=&quot;screen-shot&quot;&gt;Screen Shot&lt;/h2&gt;
+        <description>&lt;p&gt;–Screen Shot–&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../../../../../../images/WASalariesAPI.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;about-wa-salaries&quot;&gt;About WA Salaries&lt;/h2&gt;
+&lt;p&gt;–About WA Salaries–&lt;/p&gt;
 
 &lt;p&gt;24 Hour Hackathon&lt;/p&gt;
 
@@ -57,7 +59,8 @@ Populate your DB with a dataset of your choosing.
 Create an access point for your database. So others can use it as api.
 Upload it to Heroku.
 Use Angular to create a front end to access the dataset.
-Check it out at &lt;a href=&quot;https://wa-salaries-api.herokuapp.com&quot;&gt;https://wa-salaries-api.herokuapp.com&lt;/a&gt;&lt;/p&gt;
+Check it out at &lt;a href=&quot;https://wa-salaries-api.herokuapp.com&quot;&gt;https://wa-salaries-api.herokuapp.com&lt;/a&gt;
+You can go see our code &lt;a href=&quot;https://github.com/egervais7/WASalaries&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Team&lt;/p&gt;
 
@@ -96,17 +99,19 @@ Displays employee name, job title, and department name.&lt;/p&gt;
     
       <item>
         <title>Rent-Rabbit</title>
-        <description>&lt;h2 id=&quot;screen-shot&quot;&gt;Screen Shot&lt;/h2&gt;
+        <description>&lt;p&gt;–Screen Shot–&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../../../../../../images/RentRabbit.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;about-rent-rabbit&quot;&gt;About Rent-Rabbit&lt;/h2&gt;
+&lt;p&gt;–About Rent-Rabbit–&lt;/p&gt;
 
 &lt;p&gt;The purpose of Rent Rabbit is to allow members to rent gear that they are not using to other members that only need something temporarily or are wanting to give a piece of equipment a test run before purchasing.&lt;/p&gt;
 
 &lt;p&gt;RR allows signed up users to post items for rent as well as search available items posted by other users. Once a transaction has taken place, users are encouraged to rate and review their experience to better inform future interaction.&lt;/p&gt;
 
 &lt;p&gt;Check it out and become a user at &lt;a href=&quot;https://rent-rabbit.herokuapp.com&quot;&gt;https://rent-rabbit.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Or go read our code &lt;a href=&quot;https://github.com/alexwinn520/rent-rabbit&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Team&lt;/p&gt;
 
@@ -155,17 +160,19 @@ Displays employee name, job title, and department name.&lt;/p&gt;
     
       <item>
         <title>Woodies App</title>
-        <description>&lt;h2 id=&quot;screen-shot&quot;&gt;Screen Shot&lt;/h2&gt;
+        <description>&lt;p&gt;–Screen Shot–&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../../../../../../images/Woodies.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;about-woodies&quot;&gt;About Woodies&lt;/h2&gt;
+&lt;p&gt;–About Woodies–&lt;/p&gt;
 
 &lt;p&gt;Woodies app for woodworking&lt;/p&gt;
 
 &lt;p&gt;Using the pinterest API and scrapping lots of information to get this app working. A place for people who have an interest in woodworking to find information. Easy to find info on the basics for woodworking. Find and save your tools, learn some basic skills, and find project ideas!&lt;/p&gt;
 
 &lt;p&gt;Find the app at &lt;a href=&quot;https://woodiesapp.herokuapp.com&quot;&gt;woodiesapp.herokuapp.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You can go see my code &lt;a href=&quot;https://github.com/egervais7/woodies&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Using Node.js and express to run this app. Has connected database and tables with postgres.&lt;/p&gt;
 
@@ -188,17 +195,18 @@ Displays employee name, job title, and department name.&lt;/p&gt;
     
       <item>
         <title>Word Search</title>
-        <description>&lt;h2 id=&quot;screen-shot&quot;&gt;Screen Shot&lt;/h2&gt;
+        <description>&lt;p&gt;–Screen Shot–&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../../../../../../images/EGWords.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;about-word-search&quot;&gt;About Word Search&lt;/h2&gt;
+&lt;p&gt;–About Word Search–&lt;/p&gt;
 
 &lt;p&gt;This word search game was my first big assignment at General Assembly. It was built with HTML, CSS, Javascript and jQuery only.&lt;/p&gt;
 
 &lt;p&gt;After only 2 weeks of learning, I had to make a game and this is what I chose to create. It uses localStorage to save the top scores locally. It was a challenging first assignment, but looking back now, I know much better ways to create games and make working code. This was a great kick off to my learning experience at General Assembly.&lt;/p&gt;
 
-&lt;p&gt;You can play it at &lt;a href=&quot;http://egervais7.github.io/firstGameProject/&quot;&gt;http://egervais7.github.io/firstGameProject/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can play it at &lt;a href=&quot;http://egervais7.github.io/firstGameProject/&quot;&gt;http://egervais7.github.io/firstGameProject/&lt;/a&gt;
+You can go see my code &lt;a href=&quot;https://github.com/egervais7/firstGameProject&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Nov 2015 00:00:00 -0800</pubDate>
         <link>http://www.edgervais.com/vanilla/javascript/app/2015/11/25/word-search.html</link>

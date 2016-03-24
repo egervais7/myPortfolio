@@ -5,11 +5,11 @@ date:   2016-01-28
 categories: AngularJS API
 ---
 
---Screen Shot--
+## Screen Shot
 
 <img src="../../../../../../../images/WASalariesAPI.jpg">
 
---About WA Salaries--
+## About WA Salaries
 
 24 Hour Hackathon
 

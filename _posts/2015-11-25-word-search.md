@@ -5,11 +5,11 @@ date:   2015-11-25
 categories: Vanilla Javascript app
 ---
 
---Screen Shot--
+## Screen Shot
 
 <img src="../../../../../../../images/EGWords.jpg">
 
---About Word Search--
+## About Word Search
 
 This word search game was my first big assignment at General Assembly. It was built with HTML, CSS, Javascript and jQuery only.
 
