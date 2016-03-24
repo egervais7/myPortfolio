@@ -15,18 +15,15 @@ Facebook : <a href="https://www.facebook.com/edd.on.trails">{{site.facebook_user
 ## Employment
 
 ### Gorilla Give LLC Snohomish, WA<br>
-#### Contract Developer <br>
-  February 2016 to Current<br>
+  <b>Contract Developer</b> February 2016 to Current<br>
     Working as a contract developer with Gorilla Give LLC charity auction platform. Using Jekyll, Liquid Templates, React, DynamoDB and Node.js for the app and marketing site. Developer team environment with Vagrant and Docker.
 
 ### Freelance Web Developer <br>
-#### Software Craftsman <br>
-  February 2016 to Current<br>
+  <b>Software Craftsman</b> February 2016 to Current<br>
     Building websites for companies in Jekyll, JS, HTML, CSS, and Liquid Templating. Most recent for Sterling Electrical Contractors.
 
 ### General Assembly	Seattle, WA<br>
-#### Web Developer	<br>
-  Nov 2015 to Current<br>
+  <b>Web Developer</b>	Nov 2015 to Current<br>
     Working in the web development immersive course that covers programming fundamentals, basics of product development, front-end web development, and back-end web development. Learning how to write quality JavaScript code and stylish CSS. Also  working with Ruby on Rails and Node.js over this course. Built 4 main projects and many other simple ones.
 
 ### United States Postal Service	Mill Creek, WA<br>
